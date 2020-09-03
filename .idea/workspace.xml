@@ -17,7 +17,7 @@
       <file leaf-file-name="Event.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../TestMap/src/ch10/Event.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
+            <state relative-caret-position="0">
               <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="e#296#297#0" expanded="true" />
@@ -94,19 +94,6 @@
             <state relative-caret-position="17687">
               <caret line="820" column="0" lean-forward="false" selection-start-line="820" selection-start-column="0" selection-end-line="820" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3404">
-              <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
-              <folding>
-                <element signature="e#10189#10190#0" expanded="true" />
-                <element signature="e#10216#10217#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -230,8 +217,8 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="753" />
-    <option name="y" value="57" />
+    <option name="x" value="490" />
+    <option name="y" value="35" />
     <option name="width" value="1479" />
     <option name="height" value="909" />
   </component>
@@ -503,7 +490,7 @@
       <workItem from="1599011088007" duration="7563000" />
       <workItem from="1599106664873" duration="1468000" />
       <workItem from="1599122195021" duration="599000" />
-      <workItem from="1599134287526" duration="3876000" />
+      <workItem from="1599134287526" duration="4205000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;第一次提交&quot;">
       <created>1599136962140</created>
@@ -523,10 +510,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18884000" />
+    <option name="totallyTimeSpent" value="19213000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="753" y="57" width="1479" height="909" extended-state="0" />
+    <frame x="490" y="35" width="1479" height="909" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -596,14 +583,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../TestMap/src/ch10/InheritInner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="39" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../TestMap/src/ch10/WithInner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -1183,7 +1162,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../TestMap/src/ch10/Event.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
+        <state relative-caret-position="0">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#296#297#0" expanded="true" />
@@ -1279,6 +1258,14 @@
             <element signature="imports" expanded="true" />
             <element signature="e#28527#28557#1" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TestMap/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
